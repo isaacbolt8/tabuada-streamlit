@@ -7,7 +7,7 @@ st.title("📘 Tabuada Inteligente")
 numero = st.number_input(
     "Digite um número para ver a tabuada:",
     min_value=0,
-    max_value=100,
+    max_value=1000,
     step=1
 )
 
